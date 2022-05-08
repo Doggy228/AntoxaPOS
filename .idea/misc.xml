@@ -3,7 +3,11 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/prj/dyploma/antoxapos/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/prj/dyploma/antoxapos/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1425" />
+        <entry key="..\:/prj/dyploma/antoxapos/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/prj/dyploma/antoxapos/app/src/main/res/layout/pay.xml" value="0.176" />
+        <entry key="..\:/prj/dyploma/antoxapos/app/src/main/res/layout/select_ls.xml" value="0.2" />
+        <entry key="..\:/prj/dyploma/antoxapos/app/src/main/res/xml/aid_list.xml" value="0.1" />
       </map>
     </option>
   </component>

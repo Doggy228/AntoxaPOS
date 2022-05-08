@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">AntoxaPOS</string>
+    <string name="service_name">CardEmulation Sample</string>
+    <string name="card_title">Sample Loyalty Card</string>
 </resources>
